@@ -1,1 +1,1 @@
-# fitness--web-app
+# fitness-web-app
